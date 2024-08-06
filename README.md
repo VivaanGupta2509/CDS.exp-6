@@ -135,6 +135,24 @@ int main()
 
 ## Output - 
 
+### for loop - 
+<img width="797" alt="Screenshot 2024-08-06 at 2 57 18 PM" src="https://github.com/user-attachments/assets/9565a419-a454-49f1-ab4d-2c4c3445d19b"> 
+
+### while loop - 
+<img width="189" alt="Screenshot 2024-08-06 at 2 57 34 PM" src="https://github.com/user-attachments/assets/e00acf77-a451-46ce-b6b6-e9ae94d93b27">
+
+### do while loop - 
+<img width="134" alt="Screenshot 2024-08-06 at 2 57 41 PM" src="https://github.com/user-attachments/assets/59c942d4-1eb9-4fa3-bcc0-77befcf42b41">
+
+### nested for loop - 
+<img width="639" alt="Screenshot 2024-08-06 at 2 57 48 PM" src="https://github.com/user-attachments/assets/3d8db512-f224-4646-8544-0ef19e3bfb88">
+
+### nested while loop - 
+<img width="156" alt="Screenshot 2024-08-06 at 2 58 05 PM" src="https://github.com/user-attachments/assets/3ec76e80-6d47-466a-930a-577ed2c9c8f3">
+
+### nested for while -
+<img width="191" alt="Screenshot 2024-08-06 at 2 58 11 PM" src="https://github.com/user-attachments/assets/17fe1e12-2607-44c6-8f8b-65fd906ef0c4">
+
 
 
 
