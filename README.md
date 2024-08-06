@@ -153,6 +153,13 @@ int main()
 ### nested for while -
 <img width="191" alt="Screenshot 2024-08-06 at 2 58 11 PM" src="https://github.com/user-attachments/assets/17fe1e12-2607-44c6-8f8b-65fd906ef0c4">
 
+### nested do while - 
+<img width="448" alt="Screenshot 2024-08-06 at 2 58 18 PM" src="https://github.com/user-attachments/assets/24e31aff-829b-4153-9b9d-90552e44acf4">
+
+
+## Conclusion - 
+We learnt about the usage of looping statements and their importance.
+We learnt about nested loops in C++ programming.
 
 
 
